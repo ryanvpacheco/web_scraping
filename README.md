@@ -44,6 +44,8 @@ pip install bs4
 
 
 
+Em caso de duvidas e erros segue o link deste site:
+https://www.digitalocean.com/community/tutorials/como-fazer-scraping-em-paginas-web-com-beautiful-soup-and-python-3-pt
 
 
 
@@ -51,4 +53,8 @@ pip install bs4
 
 
 
-  Creditos : Lisa Tagliaferri - Developer and author at DigitalOcean.
+
+
+
+Creditos : Lisa Tagliaferri - Developer and author at DigitalOcean.
+
