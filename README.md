@@ -56,5 +56,5 @@ https://www.digitalocean.com/community/tutorials/como-fazer-scraping-em-paginas-
 
 
 
-#Creditos : Lisa Tagliaferri - Developer and author at DigitalOcean.
+# Creditos : Lisa Tagliaferri - Developer and author at DigitalOcean.
 
