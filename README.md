@@ -3,7 +3,7 @@ Web Scraping
 
 Ryan Pacheco
 
-Primeiro Passo :
+# Primeiro Passo :
 
 Abra o Cmd como administrador e digite os seguintes comandos :
   Ambiente Windows:
@@ -30,7 +30,7 @@ Abra o Cmd como administrador e digite os seguintes comandos :
 
 
 
-Passo dois:
+# Passo dois:
 
 Utilize os seguintes comandos para a instalção das bibliotecas :
 
@@ -44,7 +44,7 @@ pip install bs4
 
 
 
-Em caso de duvidas e erros segue o link deste site:
+# Em caso de duvidas e erros segue o link deste site:
 https://www.digitalocean.com/community/tutorials/como-fazer-scraping-em-paginas-web-com-beautiful-soup-and-python-3-pt
 
 
@@ -56,5 +56,5 @@ https://www.digitalocean.com/community/tutorials/como-fazer-scraping-em-paginas-
 
 
 
-Creditos : Lisa Tagliaferri - Developer and author at DigitalOcean.
+#Creditos : Lisa Tagliaferri - Developer and author at DigitalOcean.
 
